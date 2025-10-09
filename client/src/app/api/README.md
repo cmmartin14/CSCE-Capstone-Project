@@ -1,0 +1,1 @@
+The API folder holds the API route for the ZIP Code Plant Hardiness Zone
