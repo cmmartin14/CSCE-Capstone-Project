@@ -23,6 +23,9 @@ const Navbar = () => {
               <Link href="/" className="text-white hover:text-green-200 px-3 py-2 rounded-md text-sm font-medium transition-colors">
                 Home
               </Link>
+              <Link href="/garden" className="text-white hover:text-green-200 px-3 py-2 rounded-md text-sm font-medium transition-colors">
+                Garden
+              </Link>
               <Link href="/about" className="text-white hover:text-green-200 px-3 py-2 rounded-md text-sm font-medium transition-colors">
                 About
               </Link>
